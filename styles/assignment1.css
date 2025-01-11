@@ -1,0 +1,41 @@
+.fira-sans-normal {
+    font-family: "Fira Sans", serif;
+
+  }
+
+  .btn-primary{
+    font-family: "Fira Sans", serif;
+    background-color:rgba(0, 106, 80, 1);
+    color: rgba(255, 255, 255, 1);
+    font-weight:600px;
+    font-size: 18px;
+    padding: 17px 34px;
+    border-radius: 8px;
+  }
+  
+  .banner{
+    display:flex;
+    justify-content: space-between;
+    padding: 80px 100px;
+    border-radius: 24px;
+    background-color: rgba(198, 228, 214, 1);
+    text-align: left;
+    margin: 20px 50px 0 50px;
+  }
+
+  .banner-title{
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 15px;
+  }
+
+  .banner-content{
+    height: 300px;
+    width: 600;
+  }
+
+  .banner-description{
+    font-size: 56px;
+    font-weight: bold;
+    height: 200px;
+    width: 600px;
+  }
